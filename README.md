@@ -1,2 +1,2 @@
 # NodeJS-WebServer
-functions and usage in Node JS
+Functions and use of the Web Server in Node JS
